@@ -1,16 +1,16 @@
 # Fawv - Framework-Agnostic Web Video
 
-Fawv is a lightweight and high-performance JavaScript library designed for creating videos using web technologies in a framework-agnostic manner. 
+Pronounced as "fave", Fawv is a lightweight and high-performance JavaScript library designed for creating captivating videos programmatically without being tied to a specific framework. 
 
-Pronounced as "fave," Fawv empowers developers to seamlessly create captivating videos without being tied to a specific framework.
 
 ## Features
-
-- **Framework Agnostic:** Fawv provides flexibility of working seamlessly across various web frameworks, allowing you to choose the one that suits your project best.
 
 - **Lightweight:** With a focus on minimalism, Fawv is designed to be lightweight.
 
 - **High Performance:** Fawv is optimized for performance, ensuring faster than real-time render times.
+
+- **Framework Agnostic:** Fawv provides flexibility to choose the web framework that suits your project best.
+  
 
 ## Getting Started
 
