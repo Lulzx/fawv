@@ -30,4 +30,4 @@ We welcome contributions! Feel free to open issues, submit pull requests, or rea
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/lulzx/fawv/LICENSE)
+This project is licensed under the [MIT License](LICENSE)
